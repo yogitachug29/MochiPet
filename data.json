@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-21",
+  "water": 4000,
+  "user_profile": {
+    "name": "yogita",
+    "gender": "female",
+    "daily_target_ml": 5000
+  },
+  "snooze_count": 1
+}
